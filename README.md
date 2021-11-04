@@ -1,2 +1,2 @@
 # Informatorio-2021
-Ejercicios
+Ejercicios realizados durante la 3er etapa del Informatorio
